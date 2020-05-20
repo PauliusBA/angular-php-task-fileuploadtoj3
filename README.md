@@ -1,6 +1,6 @@
 # Project Title
 
-File uploader to JS#
+File uploader to S3#
 
 ## What was done in projects
 
